@@ -1,4 +1,4 @@
-name             'apt-zabbix'
+name             'apt-atomic'
 maintainer       'Eric Renfro'
 maintainer_email 'psi-jack@linux-help.org'
 license          'Apache 2.0'
